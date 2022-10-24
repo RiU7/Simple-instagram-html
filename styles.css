@@ -1,0 +1,58 @@
+body {
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: white;
+    margin-top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+img {
+    width: 500px;
+}
+
+.feed {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.postcard {
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    height: 450px;
+    width: 500px;
+    background-color: white;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.post-header {
+    padding: 5px;
+    display: flex;
+} 
+
+.p1 {
+    margin-left: 300px;
+}
+
+.p2 {
+    margin-left: 250px;
+}
+
+.p3 {
+    margin-left: 200px;
+}
+
+.post-footer {
+    padding: 20px;
+}
